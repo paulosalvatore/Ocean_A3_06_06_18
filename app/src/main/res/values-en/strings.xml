@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean_A3_06_06_18</string>
+    <string name="titulo_aplicacao">Aplication Title</string>
+    <string name="cadastrar">Add</string>
+    <string name="digite_informacoes_aula">Type class information...</string>
+    <string name="email">E-mail</string>
+    <string name="enviar_dados_digitados">Send typed data</string>
+    <string name="informacoes_aula">Class Information:</string>
+    <string name="inserir_nome">Type your name</string>
+    <string name="insira_email">Type your e-mail</string>
+    <string name="limpar">Clear</string>
+    <string name="local_aula">Class Location</string>
+    <string name="nome">Name</string>
+    <string name="resultado">Result</string>
+    <string name="digitar_nome">Type your name</string>
+    <string name="digitar_email">Type your e-mail</string>
+</resources>

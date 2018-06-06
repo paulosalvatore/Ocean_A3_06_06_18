@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ocean_A3_06_06_18</string>
+    <string name="titulo_aplicacao">Título da Aplicação</string>
+    <string name="inserir_nome">Insira o seu nome</string>
+    <string name="insira_email">Insira o seu e-mail</string>
+    <string name="resultado">Resultado</string>
+    <string name="enviar_dados_digitados">Enviar os dados digitados</string>
+    <string name="limpar">Limpar</string>
+    <string name="local_aula">Local da Aula:</string>
+    <string name="informacoes_aula">Informações sobre a aula:</string>
+    <string name="digite_informacoes_aula">Digite informações sobre a aula...</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">E-mail</string>
+    <string name="nome">Nome</string>
+    <string name="digitar_nome">Digite o seu nome</string>
+    <string name="digitar_email">Digite o seu e-mail</string>
+</resources>
